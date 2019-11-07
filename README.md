@@ -1,3 +1,3 @@
 # Twitter
-Este repositório contém a transformação do layout do Twitter para o desenvolvimento frontend
-afim de praticar a construção de páginas com HTML5 e CSS.
+Este foi o resultado aprendido na aula Bônus de CSS-Flebox da Rocketseat.
+O objetivo é montar uma página inspirada no Twitter.
