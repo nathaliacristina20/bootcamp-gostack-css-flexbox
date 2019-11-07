@@ -1,3 +1,8 @@
-# Twitter
-Este foi o resultado aprendido na aula Bônus de CSS-Flebox da Rocketseat.
-O objetivo é montar uma página inspirada no Twitter.d
+# CSS: Flexbox
+
+## Sobre
+O resultado deste bônus do Bootcamp GoStack da Rocketseat é criar uma página estática inspirada no Twitter afim de praticar o uso da propriedade flexbox do CSS.
+Por enquanto, a página não está responsiva.
+
+## Como começar
+Para visualizar o resultado basta abrir o arquivo `index.html` que se encontra na pasta raiz do repositório.
